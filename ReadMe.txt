@@ -10,7 +10,7 @@ Help yourself remember the most important notes. Write 'em down, and save 'em!
 == Description ==
 
 Sticky Note can help you remember anything you write down. 
-In tat way, you won't have to deal with paper, trash or lost notes.
+In that way, you won't have to deal with paper, trash or lost notes.
 Once you have written them in Sticky Post, they stay there!
 
 If you deactivate the plugin, the notes will not be deleted.
