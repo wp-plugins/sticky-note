@@ -14,7 +14,7 @@ function plugin_options_page() {
 <div class="text"> 
   <p><strong>HTML Allowed.<br>
   Automatic Line Break:</strong> On</p>
-  <form method="post" action="/wp-content/plugins/sticky-note-plugin/options.php">
+  <form method="post" action="/wp-content/plugins/sticky-note/options.php">
   <?php wp_nonce_field('update-options'); ?>
 
 <?php global $wpdb;
