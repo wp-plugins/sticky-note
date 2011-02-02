@@ -1,7 +1,7 @@
 <?php 
 	add_action('admin_menu', 'plugin_admin_add_page');
 	function plugin_admin_add_page() {
-	add_options_page('Sticky Note Options', 'Sticky Note Options', 'manage_options', 'plugin', 'plugin_options_page');
+	add_options_page('Sticky Note Options', 'Sticky Note Options', 'manage_options', 'sticky-note', 'plugin_options_page');
 	}
 ?>
 <?php // display the admin options page
